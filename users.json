@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "João Silva",
+    "email": "joao@email.com"
+  },
+  {
+    "id": 2,
+    "name": "Maria Souza",
+    "email": "maria@email.com"
+  },
+  {
+    "id": 3,
+    "email": "lucasgabriel18062009@gmail.com",
+    "password": "lucas1806."
+  },
+  {
+    "id": 4,
+    "email": "luca180@gmail.com",
+    "password": "12321",
+    "institutionId": "1"
+  },
+  {
+    "id": 5,
+    "email": "luca18021@gmail.com",
+    "password": "12321",
+    "institutionId": "1"
+  },
+  {
+    "id": 6,
+    "email": "luca180221@gmail.com",
+    "password": "12321",
+    "institutionId": "1"
+  }
+]
